@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MainMan\\Desktop\\RightOne\\AuctionAppAPI\\AuctionAPI\\AuctionApp\\AuctionApp.csproj": {}
+    "C:\\Users\\MainMan\\Desktop\\RightOne\\latest\\AuctionAPI1\\AuctionApp\\AuctionApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MainMan\\Desktop\\RightOne\\AuctionAppAPI\\AuctionAPI\\AuctionApp\\AuctionApp.csproj": {
+    "C:\\Users\\MainMan\\Desktop\\RightOne\\latest\\AuctionAPI1\\AuctionApp\\AuctionApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MainMan\\Desktop\\RightOne\\AuctionAppAPI\\AuctionAPI\\AuctionApp\\AuctionApp.csproj",
+        "projectUniqueName": "C:\\Users\\MainMan\\Desktop\\RightOne\\latest\\AuctionAPI1\\AuctionApp\\AuctionApp.csproj",
         "projectName": "AuctionApp",
-        "projectPath": "C:\\Users\\MainMan\\Desktop\\RightOne\\AuctionAppAPI\\AuctionAPI\\AuctionApp\\AuctionApp.csproj",
+        "projectPath": "C:\\Users\\MainMan\\Desktop\\RightOne\\latest\\AuctionAPI1\\AuctionApp\\AuctionApp.csproj",
         "packagesPath": "C:\\Users\\MainMan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MainMan\\Desktop\\RightOne\\AuctionAppAPI\\AuctionAPI\\AuctionApp\\obj\\",
+        "outputPath": "C:\\Users\\MainMan\\Desktop\\RightOne\\latest\\AuctionAPI1\\AuctionApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MainMan\\AppData\\Roaming\\NuGet\\NuGet.Config",

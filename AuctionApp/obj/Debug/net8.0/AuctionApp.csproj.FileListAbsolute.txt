@@ -76,3 +76,4 @@ C:\Users\MainMan\Desktop\RightOne\AuctionAppAPI\AuctionAPI\AuctionApp\obj\Debug\
 C:\Users\MainMan\Desktop\RightOne\AuctionAppAPI\AuctionAPI\AuctionApp\obj\Debug\net8.0\AuctionApp.pdb
 C:\Users\MainMan\Desktop\RightOne\AuctionAppAPI\AuctionAPI\AuctionApp\obj\Debug\net8.0\AuctionApp.genruntimeconfig.cache
 C:\Users\MainMan\Desktop\RightOne\AuctionAppAPI\AuctionAPI\AuctionApp\obj\Debug\net8.0\ref\AuctionApp.dll
+C:\Users\MainMan\Desktop\RightOne\AuctionAppAPI\AuctionAPI\AuctionApp\bin\Debug\net8.0\RabbitMQ.Client.dll
